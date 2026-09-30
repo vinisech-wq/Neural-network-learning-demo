@@ -4,7 +4,7 @@ A web-based, interactive demo built with **TensorFlow/Keras** and **Streamlit**.
 Change the dataset, layers, neurons, activation function, learning rate and epochs,
 press **Train**, and watch a real neural network learn.
 
-**Live demo:** _paste your Streamlit URL here_
+**Live demo:** https://neural-network-learning-demo-mayhpzjewfyhamfngrwf2w.streamlit.app/
 
 ## Features
 - Datasets: Moons, Circles, XOR, Two clusters (adjustable noise and size)
